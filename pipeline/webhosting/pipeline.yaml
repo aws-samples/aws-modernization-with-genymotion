@@ -11,23 +11,23 @@ Parameters:
   ProjectName:
     Type: String
     Description: Project Name
-    Default: xxxxxxxx
+    Default: genymotion
   WebsiteBucket:
     Type: String
     Description: Website S3 bucket name
-    Default: xxxxxxxx.awsworkshop.io 
+    Default: genymotion.awsworkshop.io 
   CloudFrontDistroId:
     Type: String
     Description: CloudFront distribution ID 
-    Default: xxxxxxxx
+    Default: E2U5I86G75LFC7
   GitHubRepo:
     Type: String
     Description: repo name
-    Default: aws-modernization-xxxxxxx
+    Default: aws-modernization-with-genymotion
   FullRepoURL:
     Type: String
     Description: The full url to the repo
-    Default: https://github.com/aws-samples/aws-modernization-xxxxxxxx.git  
+    Default: https://github.com/aws-samples/aws-modernization-with-genymotion.git  
   GitHubOwner:
     Type: String
     Description: GitHub owner name
